@@ -1,9 +1,9 @@
 # Booki-Créez la page d'accueil d'une agence de voyage avec HTML & CSS
 
 - ![Author](<https://img.shields.io/badge/Author-Souad Mouatakide-">)
-- ![GitHub mon-cv size](https://img.shields.io/github/repo-size/sousouben/booki)
-- ![GitHub top language](https://img.shields.io/github/languages/top/sousouben/booki)
-- ![GitHub language count](https://img.shields.io/github/languages/count/sousouben/booki)
+- ![GitHub mon-cv size](https://img.shields.io/github/repo-size/sousouben/Mouatakide_Souad_1_code_062023)
+- ![GitHub top language](https://img.shields.io/github/languages/top/sousouben/Mouatakide_Souad_1_code_062023)
+- ![GitHub language count](https://img.shields.io/github/languages/count/sousouben/Mouatakide_Souad_1_code_062023)
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
